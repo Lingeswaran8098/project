@@ -1,3 +1,7 @@
-a="lingeswaran"
-b="Anjalai"
-print(a+b)
+a="Ammasi "
+b="Anjalai "
+c="Lingeswaran "
+d="Kallazhagan "
+e="pavuthiriya"
+print(a+b+c+d+e)
+print()
